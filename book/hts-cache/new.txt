@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-10:28:47	69/69	---M-Z	200	added ('OK')	text/plain	date:Sat,%2004%20Jan%202025%2004:58:47%20GMT	https://aimrevolution.com/robots.txt		(from )
-10:28:48	196265/196265	---MCZ	200	added ('OK')	text/html	date:Sat,%2004%20Jan%202025%2004:58:47%20GMT	https://aimrevolution.com/	D:/Khurafat/WEBSITES/book/aimrevolution.com/index.html	(from )
